@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.10.7",
-  "zip": "releases/TabTidy-1.10.7.zip",
-  "size": 114669,
-  "sha256": "3b1b291c87302febc4dbb0e86578195f70534c08a4a42dc111f4a25f776ec862",
-  "publishedAt": "2026-10-20T14:11:07+08:00",
-  "notes": "顺序功能缩到最小：只记住拖到最上面的那个组，其余顺序不管；删掉整表排序/多组搬动/索引换算"
+  "version": "1.11.0",
+  "zip": "releases/TabTidy-1.11.0.zip",
+  "size": 104907,
+  "sha256": "721d8cbb3cefd0d7d74c519e6a5305f520dc69ecb335308b077069c658dd49de",
+  "publishedAt": "2026-10-20T14:22:13+08:00",
+  "notes": "删掉「让分组听你的」标注面板，改规则只在弹窗里双击组名；修了第一行双击不生效的问题"
 }
