@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.10.4",
-  "zip": "releases/TabTidy-1.10.4.zip",
-  "size": 114602,
-  "sha256": "f54350b866c5e6c064717002bbba5a5f3d4b879c06ee33e534651de1c20e5186",
-  "publishedAt": "2026-10-20T11:20:58+08:00",
-  "notes": "首次发布：双击改名、自动同步、配色不重复、拖拽排序记忆、规则按主机名生效"
+  "version": "1.10.5",
+  "zip": "releases/TabTidy-1.10.5.zip",
+  "size": 116691,
+  "sha256": "d448a580f4af501c8ba1d48d2448cadcb2dd967eab7c6ebe8fba0a084d796161",
+  "publishedAt": "2026-10-20T13:47:53+08:00",
+  "notes": "分组顺序加了自检：搬完实测一遍，失败原因直接在设置页显示；修了一个可能把错误顺序记下来的隐患"
 }
