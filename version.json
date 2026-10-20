@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.10.6",
-  "zip": "releases/TabTidy-1.10.6.zip",
-  "size": 118407,
-  "sha256": "3925edb6796ca6da7054fc6c0c3cf8475899eda4e8a10fc100ff17afc0b1af5c",
-  "publishedAt": "2026-10-20T14:01:31+08:00",
-  "notes": "顺序记忆不再只认组名：同时记住组里的网站，组被改名后仍能保住原来的位置"
+  "version": "1.10.7",
+  "zip": "releases/TabTidy-1.10.7.zip",
+  "size": 114669,
+  "sha256": "3b1b291c87302febc4dbb0e86578195f70534c08a4a42dc111f4a25f776ec862",
+  "publishedAt": "2026-10-20T14:11:07+08:00",
+  "notes": "顺序功能缩到最小：只记住拖到最上面的那个组，其余顺序不管；删掉整表排序/多组搬动/索引换算"
 }
