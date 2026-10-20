@@ -1,0 +1,9 @@
+{
+  "app": "TabTidy",
+  "version": "1.10.4",
+  "zip": "releases/TabTidy-1.10.4.zip",
+  "size": 114602,
+  "sha256": "f54350b866c5e6c064717002bbba5a5f3d4b879c06ee33e534651de1c20e5186",
+  "publishedAt": "2026-10-20T11:20:58+08:00",
+  "notes": "首次发布：双击改名、自动同步、配色不重复、拖拽排序记忆、规则按主机名生效"
+}
