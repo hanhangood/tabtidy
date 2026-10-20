@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.10.5",
-  "zip": "releases/TabTidy-1.10.5.zip",
-  "size": 116691,
-  "sha256": "d448a580f4af501c8ba1d48d2448cadcb2dd967eab7c6ebe8fba0a084d796161",
-  "publishedAt": "2026-10-20T13:47:53+08:00",
-  "notes": "分组顺序加了自检：搬完实测一遍，失败原因直接在设置页显示；修了一个可能把错误顺序记下来的隐患"
+  "version": "1.10.6",
+  "zip": "releases/TabTidy-1.10.6.zip",
+  "size": 118407,
+  "sha256": "3925edb6796ca6da7054fc6c0c3cf8475899eda4e8a10fc100ff17afc0b1af5c",
+  "publishedAt": "2026-10-20T14:01:31+08:00",
+  "notes": "顺序记忆不再只认组名：同时记住组里的网站，组被改名后仍能保住原来的位置"
 }
