@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.11.2",
-  "zip": "releases/TabTidy-1.11.2.zip",
-  "size": 103399,
-  "sha256": "e1e2449b910c7b4039117b5e6d17263fa6a7baaaa4c5461ebd381ce6d3d4296d",
-  "publishedAt": "2026-10-20T14:29:40+08:00",
+  "version": "1.11.3",
+  "zip": "releases/TabTidy-1.11.3.zip",
+  "size": 103407,
+  "sha256": "660dd496aac1d0000275dbb9abeea9ca3c3b82d1414dfea118f832ba061403df",
+  "publishedAt": "2026-10-20T14:33:27+08:00",
   "notes": "去掉规则列表页（只留条数统计+清空）；每行加「改名」按钮，绕开双击失效"
 }
