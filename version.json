@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.13.1",
-  "zip": "releases/TabTidy-1.13.1.zip",
-  "size": 106793,
-  "sha256": "1f595f7d0830f037ef8fffe04698c8c381b9412687a9041b3f8b64f78b5ad2f3",
-  "publishedAt": "2026-10-23T10:15:55+08:00",
-  "notes": "搜索页不再受「学到的规则」约束，并自动清掉搜索引擎域名上的旧规则（这才是上次没生效的真原因）"
+  "version": "2.0.0",
+  "zip": "releases/TabTidy-2.0.0.zip",
+  "size": 99289,
+  "sha256": "6aaf43d50f57c00f3f202c252c218d8d7c1111cb65c8990d08c1bdc9d83e46d8",
+  "publishedAt": "2026-10-23T10:35:34+08:00",
+  "notes": "移除整套学习机制：分组与命名全部由算法决定，不再从拖动/改标题推断规则"
 }
