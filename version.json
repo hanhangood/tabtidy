@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.13.0",
-  "zip": "releases/TabTidy-1.13.0.zip",
-  "size": 106018,
-  "sha256": "40dea79f52dde61850b04b699293fcb0e20d7e96d1a9cfd0298e7419a5b0e7b6",
-  "publishedAt": "2026-10-23T10:01:38+08:00",
-  "notes": "搜索结果页按「当初搜的词」分组（依据 Tabs.do）：不再把不同查询并进 bing.com 一个组"
+  "version": "1.13.1",
+  "zip": "releases/TabTidy-1.13.1.zip",
+  "size": 106793,
+  "sha256": "1f595f7d0830f037ef8fffe04698c8c381b9412687a9041b3f8b64f78b5ad2f3",
+  "publishedAt": "2026-10-23T10:15:55+08:00",
+  "notes": "搜索页不再受「学到的规则」约束，并自动清掉搜索引擎域名上的旧规则（这才是上次没生效的真原因）"
 }
