@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "1.12.0",
-  "zip": "releases/TabTidy-1.12.0.zip",
-  "size": 104096,
-  "sha256": "5458d891c08d8efca6acd5a1ff8aaa688c7e99747815297536b72027e737ba96",
-  "publishedAt": "2026-10-23T09:40:03+08:00",
-  "notes": "统一产品名（TabTidy 标签页整理）；修复扩展页面/浏览器内部页面被当成网站参与分组和记规则的问题"
+  "version": "1.13.0",
+  "zip": "releases/TabTidy-1.13.0.zip",
+  "size": 106018,
+  "sha256": "40dea79f52dde61850b04b699293fcb0e20d7e96d1a9cfd0298e7419a5b0e7b6",
+  "publishedAt": "2026-10-23T10:01:38+08:00",
+  "notes": "搜索结果页按「当初搜的词」分组（依据 Tabs.do）：不再把不同查询并进 bing.com 一个组"
 }
