@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.1.0",
-  "zip": "releases/TabTidy-2.1.0.zip",
-  "size": 95319,
-  "sha256": "8d625ca45ad9a555ea54818efdefba221c7a8320866259ed00611606125b5204",
-  "publishedAt": "2026-10-27T10:31:58+08:00",
-  "notes": "删掉「读取页面内容」和「页面内容缓存」：不再申请任何网页权限，升级时自动清掉旧缓存并撤销全站权限"
+  "version": "2.2.0",
+  "zip": "releases/TabTidy-2.2.0.zip",
+  "size": 95256,
+  "sha256": "bc65e44e497045595c4c12ce7f8129743f33a7bd2bcb715dd79f8f6afc11eacd",
+  "publishedAt": "2026-10-27T10:43:21+08:00",
+  "notes": "组名改为只看网址：deepseek.com 永远叫 deepseek，不再从标签页标题提炼（聊天会话标题一换名字就变的问题）"
 }
