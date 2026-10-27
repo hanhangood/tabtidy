@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.0.0",
-  "zip": "releases/TabTidy-2.0.0.zip",
-  "size": 99289,
-  "sha256": "6aaf43d50f57c00f3f202c252c218d8d7c1111cb65c8990d08c1bdc9d83e46d8",
-  "publishedAt": "2026-10-23T10:35:34+08:00",
-  "notes": "移除整套学习机制：分组与命名全部由算法决定，不再从拖动/改标题推断规则"
+  "version": "2.0.1",
+  "zip": "releases/TabTidy-2.0.1.zip",
+  "size": 99916,
+  "sha256": "5d02b3cbc7361802c9ee664eddf7468840c20b1d0eb613919849c46e9e3f36cd",
+  "publishedAt": "2026-10-27T10:26:54+08:00",
+  "notes": "关闭「读取页面内容」后不再使用已缓存的正文（原来开关只拦读、不拦用）"
 }
