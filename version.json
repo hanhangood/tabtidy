@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.0.1",
-  "zip": "releases/TabTidy-2.0.1.zip",
-  "size": 99916,
-  "sha256": "5d02b3cbc7361802c9ee664eddf7468840c20b1d0eb613919849c46e9e3f36cd",
-  "publishedAt": "2026-10-27T10:26:54+08:00",
-  "notes": "关闭「读取页面内容」后不再使用已缓存的正文（原来开关只拦读、不拦用）"
+  "version": "2.1.0",
+  "zip": "releases/TabTidy-2.1.0.zip",
+  "size": 95319,
+  "sha256": "8d625ca45ad9a555ea54818efdefba221c7a8320866259ed00611606125b5204",
+  "publishedAt": "2026-10-27T10:31:58+08:00",
+  "notes": "删掉「读取页面内容」和「页面内容缓存」：不再申请任何网页权限，升级时自动清掉旧缓存并撤销全站权限"
 }
