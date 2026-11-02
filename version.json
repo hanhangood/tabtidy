@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.3.0",
-  "zip": "releases/TabTidy-2.3.0.zip",
-  "size": 96747,
-  "sha256": "63f2cedecb809359b9f3236f6d23c36ff1240ff310433d3fe1001101660cdd64",
-  "publishedAt": "2026-11-02T13:08:38+08:00",
-  "notes": "每行加「×」关闭整组（点前先确认）；彻底移除双击改名，只保留「改名」按钮"
+  "version": "2.3.1",
+  "zip": "releases/TabTidy-2.3.1.zip",
+  "size": 96960,
+  "sha256": "1b665ba3167d30ea39e68f029a4cb2f8b30f65ca66bffee543f9f5bb33fc4407",
+  "publishedAt": "2026-11-02T13:27:26+08:00",
+  "notes": "修「×」不显示：popup.html 没内联 si-close 图标（按钮在、能点，但图标是空的）"
 }

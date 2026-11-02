@@ -4,12 +4,12 @@
 
 ## 下载最新版
 
-**v2.3.0** —— [TabTidy-2.3.0.zip](releases/TabTidy-2.3.0.zip) · 94 KB
+**v2.3.1** —— [TabTidy-2.3.1.zip](releases/TabTidy-2.3.1.zip) · 95 KB
 
-> 每行加「×」关闭整组（点前先确认）；彻底移除双击改名，只保留「改名」按钮
+> 修「×」不显示：popup.html 没内联 si-close 图标（按钮在、能点，但图标是空的）
 
 ```
-SHA-256  63f2cedecb809359b9f3236f6d23c36ff1240ff310433d3fe1001101660cdd64
+SHA-256  1b665ba3167d30ea39e68f029a4cb2f8b30f65ca66bffee543f9f5bb33fc4407
 ```
 
 ## 安装
@@ -17,13 +17,14 @@ SHA-256  63f2cedecb809359b9f3236f6d23c36ff1240ff310433d3fe1001101660cdd64
 1. 下载并解压上面的 zip
 2. 打开 `edge://extensions`（Chrome 用 `chrome://extensions`）
 3. 打开右上角（Chrome 在左上角）的「开发人员模式」
-4. 点「加载解压缩的扩展」，选中解压出来的 `TabTidy-2.3.0` 文件夹
+4. 点「加载解压缩的扩展」，选中解压出来的 `TabTidy-2.3.1` 文件夹
 5. 详细步骤见 [使用说明.txt](使用说明.txt)
 
 ## 版本历史
 
 | 版本 | 日期 | 说明 |
 |---|---|---|
+| [2.3.1](releases/TabTidy-2.3.1.zip) | 2026-11-02 | 修「×」不显示：popup.html 没内联 si-close 图标（按钮在、能点，但图标是空的） |
 | [2.3.0](releases/TabTidy-2.3.0.zip) | 2026-11-02 | 每行加「×」关闭整组（点前先确认）；彻底移除双击改名，只保留「改名」按钮 |
 | [2.2.1](releases/TabTidy-2.2.1.zip) | 2026-11-02 | 站内搜索不再单独成组：语雀里搜「连锁物流」不会从「语雀」组里分出去（查询分组只对搜索引擎生效） |
 | [2.2.0](releases/TabTidy-2.2.0.zip) | 2026-10-27 | 组名改为只看网址：deepseek.com 永远叫 deepseek，不再从标签页标题提炼（聊天会话标题一换名字就变的问题） |
