@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.2.1",
-  "zip": "releases/TabTidy-2.2.1.zip",
-  "size": 95524,
-  "sha256": "ba9a5fe5e6013e408bd352c81f9adf0f00ed42991bc3a895a502029f8f51af8c",
-  "publishedAt": "2026-11-02T12:49:25+08:00",
-  "notes": "站内搜索不再单独成组：语雀里搜「连锁物流」不会从「语雀」组里分出去（查询分组只对搜索引擎生效）"
+  "version": "2.3.0",
+  "zip": "releases/TabTidy-2.3.0.zip",
+  "size": 96747,
+  "sha256": "63f2cedecb809359b9f3236f6d23c36ff1240ff310433d3fe1001101660cdd64",
+  "publishedAt": "2026-11-02T13:08:38+08:00",
+  "notes": "每行加「×」关闭整组（点前先确认）；彻底移除双击改名，只保留「改名」按钮"
 }
