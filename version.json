@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.2.0",
-  "zip": "releases/TabTidy-2.2.0.zip",
-  "size": 95256,
-  "sha256": "bc65e44e497045595c4c12ce7f8129743f33a7bd2bcb715dd79f8f6afc11eacd",
-  "publishedAt": "2026-10-27T10:43:21+08:00",
-  "notes": "组名改为只看网址：deepseek.com 永远叫 deepseek，不再从标签页标题提炼（聊天会话标题一换名字就变的问题）"
+  "version": "2.2.1",
+  "zip": "releases/TabTidy-2.2.1.zip",
+  "size": 95524,
+  "sha256": "ba9a5fe5e6013e408bd352c81f9adf0f00ed42991bc3a895a502029f8f51af8c",
+  "publishedAt": "2026-11-02T12:49:25+08:00",
+  "notes": "站内搜索不再单独成组：语雀里搜「连锁物流」不会从「语雀」组里分出去（查询分组只对搜索引擎生效）"
 }
