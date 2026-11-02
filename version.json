@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.3.1",
-  "zip": "releases/TabTidy-2.3.1.zip",
-  "size": 96960,
-  "sha256": "1b665ba3167d30ea39e68f029a4cb2f8b30f65ca66bffee543f9f5bb33fc4407",
-  "publishedAt": "2026-11-02T13:27:26+08:00",
-  "notes": "修「×」不显示：popup.html 没内联 si-close 图标（按钮在、能点，但图标是空的）"
+  "version": "2.3.2",
+  "zip": "releases/TabTidy-2.3.2.zip",
+  "size": 97610,
+  "sha256": "3d2a9951035987e9795c596c10b0b5803b0af38ac980a826b43c6f16d1485c69",
+  "publishedAt": "2026-11-02T13:41:51+08:00",
+  "notes": "「×」按锤子图标按钮重做：24px 圆盘底托 + 15px 灰叉，悬停转红、按下加深；修图标颜色被套件规则压住导致永远浅灰"
 }
