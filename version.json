@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.3.2",
-  "zip": "releases/TabTidy-2.3.2.zip",
-  "size": 97610,
-  "sha256": "3d2a9951035987e9795c596c10b0b5803b0af38ac980a826b43c6f16d1485c69",
-  "publishedAt": "2026-11-02T13:41:51+08:00",
-  "notes": "「×」按锤子图标按钮重做：24px 圆盘底托 + 15px 灰叉，悬停转红、按下加深；修图标颜色被套件规则压住导致永远浅灰"
+  "version": "2.3.3",
+  "zip": "releases/TabTidy-2.3.3.zip",
+  "size": 98691,
+  "sha256": "95a668405609fbff7374457deef0e8efcb0a144f9dbe080ba43e368e159766a9",
+  "publishedAt": "2026-11-17T13:40:30+08:00",
+  "notes": "弹窗列表顺序改成按标签栏位置排：两侧统一（2.3.3）"
 }
