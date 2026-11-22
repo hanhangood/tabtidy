@@ -4,6 +4,6 @@
   "zip": "releases/TabTidy-2.4.0.zip",
   "size": 96102,
   "sha256": "120eef06c029705ca8a6cfad44f78d15018de747fc51107b4c8cde7e3dea58aa",
-  "publishedAt": "2026-11-22T09:54:48+08:00",
+  "publishedAt": "2026-11-22T09:56:05+08:00",
   "notes": "删除改名：弹窗不再有「改名」按钮，renames 存储与同步字段一并移除；组名完全由插件按网址决定（2.4.0）"
 }
