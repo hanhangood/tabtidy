@@ -1,9 +1,9 @@
 {
   "app": "TabTidy",
-  "version": "2.3.5",
-  "zip": "releases/TabTidy-2.3.5.zip",
-  "size": 98980,
-  "sha256": "568c0bcfa98b7b683d661f31897f9f243ed36da6e4154483e77a869519333ee3",
-  "publishedAt": "2026-11-18T09:09:04+08:00",
-  "notes": "元宝搜索（so.qq.com）不再按查询拆组：同一工具整机成一组，名字固定「元宝搜索」（2.3.5）"
+  "version": "2.4.0",
+  "zip": "releases/TabTidy-2.4.0.zip",
+  "size": 96102,
+  "sha256": "120eef06c029705ca8a6cfad44f78d15018de747fc51107b4c8cde7e3dea58aa",
+  "publishedAt": "2026-11-22T09:54:48+08:00",
+  "notes": "删除改名：弹窗不再有「改名」按钮，renames 存储与同步字段一并移除；组名完全由插件按网址决定（2.4.0）"
 }
